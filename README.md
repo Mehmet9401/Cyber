@@ -16,6 +16,7 @@ Flask
 SQLite
 
 Adımlar
+
 1.Depoyu Klonla:git clone https://github.com/kullanici_adiniz/sql-injection-lab.git
 cd sql-injection-lab
 
